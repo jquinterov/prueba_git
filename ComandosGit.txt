@@ -1,1 +1,2 @@
-Para iniciar un repositorio utilizo "git init"
+Para iniciar un repositorio se utiliza "git init"
+para adicionar cambios se utiliza el comando "git add ."
